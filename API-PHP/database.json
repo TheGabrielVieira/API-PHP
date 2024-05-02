@@ -1,0 +1,36 @@
+[
+    {
+        "user_id":1,
+        "username":"Bob",
+        "user_email":"bobgmail.com",
+        "user_status":0
+    },
+
+    {
+        "user_id":2,
+        "username":"Annie Robbins",
+        "user_email":"sofabegul@ewwopte.gm",
+        "user_status":1
+    },
+
+    {
+        "user_id":3,
+        "username":"Curtis Padilla",
+        "user_email":"tokpitil@lot.gh",
+        "user_status":1
+    },
+
+    {
+        "user_id":4,
+        "username":"Norman Rowe",
+        "user_email":"elsa@dek.gn",
+        "user_status":0
+    },
+
+    {
+        "user_id":5,
+        "username":"Randall Frank",
+        "user_email":"hen@mirgu.eh",
+        "user_status":0
+    }
+]
